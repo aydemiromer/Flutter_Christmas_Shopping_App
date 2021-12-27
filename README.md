@@ -40,9 +40,11 @@ $ pub get
 
 <table> 
   <tr>
-     <td><img src="https://user-images.githubusercontent.com/45129432/147494059-affe1512-b728-4c3d-9826-71637ed6ab58.png" width=270 height=480</td>
-     <td><img src="https://user-images.githubusercontent.com/45129432/147494057-deacdd66-79eb-4306-956d-994886b69abb.png" width=270 height=480></td>
-     <td><img src="https://user-images.githubusercontent.com/45129432/147494051-b0e9066c-0eb1-4eba-a4f1-efa0d8a749ab.png" width=270 height=480></td>
-     <td><img src="https://user-images.githubusercontent.com/45129432/147494045-0601cb1e-b9f2-4058-8f65-295e5c7a6c33.png" width=270 height=480></td>
+     <td><img src="https://user-images.githubusercontent.com/45129432/147494059-affe1512-b728-4c3d-9826-71637ed6ab58.png"  height=480</td>
+     <td><img src="https://user-images.githubusercontent.com/45129432/147494057-deacdd66-79eb-4306-956d-994886b69abb.png"  height=480></td>
+  </tr>
+  <tr>
+  <td><img src="https://user-images.githubusercontent.com/45129432/147494051-b0e9066c-0eb1-4eba-a4f1-efa0d8a749ab.png"  height=480></td>
+  <td><img src="https://user-images.githubusercontent.com/45129432/147494045-0601cb1e-b9f2-4058-8f65-295e5c7a6c33.png" height=480></td>
   </tr>
  </table>
